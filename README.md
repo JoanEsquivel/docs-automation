@@ -1,6 +1,8 @@
 # docs-automation
 This repository is an information repository about articles of software testing
 
+# Software Testing - All you need to know
+
 ## Testing Fundamentals
 
 1. [What is Testing?](docs/What-is-Testing.md)
