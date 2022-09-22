@@ -1,31 +1,31 @@
 # docs-automation
 This repository is an information repository about articles of software testing
 
-# Software Testing - All you need to know
+## Software Testing - All you need to know
 
 ## Testing Fundamentals
 
 1. [What is Testing?](docs/What-is-Testing.md)
 
-## Testing Software Development Lifecycle + Metodologies
+#### Testing Software Development Lifecycle + Metodologies
 2. [dummy article](docs/What-is-Testing.md)
 
-## Test Levels
+#### Test Levels
 3. [dummy article](docs/What-is-Testing.md)
 
-## Test Types
+#### Test Types
 4. [dummy article](docs/What-is-Testing.md)
 
-## Static Testing
+#### Static Testing
 5. [dummy article](docs/What-is-Testing.md)
 
-## Test Techniques
+#### Test Techniques
 6. [dummy article](docs/What-is-Testing.md)
 
-## Test Management
+#### Test Management
 7. [dummy article](docs/What-is-Testing.md)
 
-# Software Testing - Common Interview Questions
+### Software Testing - Common Interview Questions
 
 When you take a QA Engineer interview, you are going to be asked about some common questions related to Sofware Testing and all the articles we have reviewed before. 
 
