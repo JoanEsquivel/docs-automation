@@ -16,5 +16,7 @@ Testing is a **process** that includes different activites:
 
 1. Running tests is only one activity (Test Execution) in the process. 
 2. Also, testing involves two important aspects:
-  2.1 Verification (QA) - Static Testing
-  2.2 Validation (QC) - Dynamic Testing
+
+  * Verification (QA) - Static Testing
+  
+  * Validation (QC) - Dynamic Testing
