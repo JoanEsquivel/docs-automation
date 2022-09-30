@@ -6,6 +6,7 @@ This repository is an information repository about articles of software testing
 ## Testing Fundamentals
 
 1. [What is Testing?](docs/What-is-Testing.md)
+2. [Quality Assurance & Testing](docs/qatesting.md)
 
 #### Testing Software Development Lifecycle + Metodologies
 2. [dummy article](docs/What-is-Testing.md)
